@@ -5,7 +5,11 @@
 
 ## Demonstration
 
-![Demo](demo.gif)
+![Demo](basic-demo.gif)
 
+## Advanced
 
+1: Use programmatic Autolayout (or Autolayout + Snapkit)
+
+ 
 
