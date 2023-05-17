@@ -6,7 +6,7 @@
 ## Demonstration
 Video demonstration with full basic functionality, as well as all additional functionality
 
-![Demo](basic-demo.gif)
+![Demo](base-demo.gif)
 
 ## Advanced
 
