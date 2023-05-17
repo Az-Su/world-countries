@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c99f00cd21bfc70d4659a463d883a0510718984f"
+      }
+    },
+    {
+      "identity" : "skeleton",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalonunez/Skeleton",
+      "state" : {
+        "revision" : "000efd654b18734c6707dac2c92a8dd7db6c6770",
+        "version" : "0.5.1"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "f222cbdf325885926566172f6f5f06af95473158",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
